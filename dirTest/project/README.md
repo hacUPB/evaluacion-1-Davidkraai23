@@ -1,5 +1,7 @@
 <h1> PRIMER PARCIAL </h1>
 
+![alt text](https://i.imgur.com/9l9kzXO.jpeg)
+
 El proyecto consistia en clonar un repositorio por medio de la terminal de linux e ingrsar a una carpeta en especifica para poder modificarla y luego enviar el proyecto de resego al repositorio remoto.
 
 https://github.com/hacUPB/evaluacion-1-Davidkraai23.git
